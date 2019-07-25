@@ -20,7 +20,7 @@ We have a large number of Wikipedia Comments which have been labeled by human ra
 
 * Identity_hate
 
-You must create a model which predicts a probablity of each type of toxicity for each comment.
+You must create a model which predicts a probability of each type of toxicity for each comment.
 
 <b> Target </b>
 
