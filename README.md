@@ -27,6 +27,7 @@ LSTM is used to build the above model with some data preprocessing techniques.
 You must create a model which predicts a probability of each type of toxicity for each comment.
 
 
+
 ![pcc](https://user-images.githubusercontent.com/50323194/83974971-9f91f300-a90e-11ea-9b36-a30983881ab6.PNG)
 
 <h2> Results </h2>
