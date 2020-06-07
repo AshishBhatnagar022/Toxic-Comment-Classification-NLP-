@@ -25,6 +25,9 @@ We have a large number of Wikipedia Comments which have been labeled by human ra
 This is a model which could able to predict the toxicity of the comments. It is deployed through flask framework in which for a given comment the model able to predict the toxicity of the comment.
 LSTM is used to build the above model with some data preprocessing techniques. 
 You must create a model which predicts a probability of each type of toxicity for each comment.
+
+![pcc](https://user-images.githubusercontent.com/50323194/83974971-9f91f300-a90e-11ea-9b36-a30983881ab6.PNG)
+
 <h2> Results </h2>
 
 The model is now able to predict the toxicity ofthe comments sucessfully.
